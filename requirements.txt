@@ -1,7 +1,9 @@
-pytz==2019.1
-python-dateutil==2.8.0
+Cython
+pytz
+python-dateutil
 lxml
-openpyxl==2.6.2
+openpyxl
 xlrd
+XlsxWriter
 pymssql<3.0
-psycopg2-binary
+psycopg2
